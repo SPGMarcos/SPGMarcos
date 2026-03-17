@@ -99,7 +99,7 @@ Também disponibilizo imagens e vídeos reais dos sistemas funcionando.
 
 Gosto de construir soluções que realmente funcionam no mundo real.
 
-Não foco só no código — penso no sistema completo:
+Não foco só em desenvolver o código, penso no sistema por completo:
 hardware, software, usabilidade e aplicação prática.
 
 Meu objetivo é transformar esses projetos em produtos através da **SmartControl**, criando soluções acessíveis e confiáveis de automação.
