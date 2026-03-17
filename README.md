@@ -29,16 +29,9 @@ An intelligent irrigation system with scheduled automation, MQTT integration, an
 
 ---
 
-## 🌐 Live Demonstrations
-
-🔗 [Wi-Fi RC Car Interface](PASTE_YOUR_GITHUB_PAGES_LINK)  
-🔗 [Smart Irrigation Dashboard](PASTE_YOUR_LINK_IF_AVAILABLE)
-
----
-
 ## 📸 Projects Preview
 
-*(Add images or GIFs here to showcase your projects)*
+
 
 ---
 
