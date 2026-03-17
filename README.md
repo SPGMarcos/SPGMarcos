@@ -1,4 +1,4 @@
-# 👨‍💻 Marcos Gabriel Ferreira Miranda
+# Marcos Gabriel Ferreira Miranda
 
 Desenvolvedor IoT | Fundador da SmartControl  
 
