@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 🚀 Marcos Gabriel Ferreira Miranda
+# Marcos Gabriel Ferreira Miranda
 
 ## IoT Developer | SmartControl
 
