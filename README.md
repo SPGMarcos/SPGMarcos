@@ -1,77 +1,121 @@
-## Hi there 👋
-# Marcos Gabriel Ferreira Miranda
+# 👨‍💻 Marcos Gabriel Ferreira Miranda
 
-## IoT Developer | SmartControl
+Desenvolvedor IoT | Fundador da SmartControl  
 
-I develop smart automation solutions for residential and agricultural environments, focusing on embedded systems, connectivity, and real-world applications.
+Sou focado em desenvolver soluções de automação inteligentes para ambientes residenciais e agrícolas, sempre com uma abordagem prática: resolver problemas reais usando tecnologia.
+
+Trabalho principalmente com sistemas embarcados, conectividade e integração com plataformas como Home Assistant.
 
 ---
 
-## 🔧 Technologies
+## 🔧 Tecnologias e Ferramentas
 
-- ESP8266 / ESP32 and Others
+- ESP8266 / ESP32
 - Arduino
 - MQTT
 - Home Assistant
-- Embedded C++
-- HTML, CSS, JavaScript
-- IoT Systems
+- C++ (Embedded)
+- HTML, CSS e JavaScript
+- Sistemas IoT (automação e controle)
 
 ---
 
-## 🌱 Featured Projects
+## 🌱 Projetos em Destaque
 
-### 🚗 Smart Car Control (ESP8266 + Arduino)
-A Wi-Fi controlled robotic vehicle using an ESP8266 in Access Point mode with a responsive web-based joystick interface and serial communication with Arduino.
+### 🚗 Carrinho Controle Wi-Fi (ESP8266 + Arduino)
 
-### 🌱 Smart Irrigation Panel
-An intelligent irrigation system with scheduled automation, MQTT integration, and native Home Assistant support.
+Projeto de um carrinho robótico controlado via Wi-Fi, utilizando o ESP8266 em modo Access Point.
 
----
-
-## 📸 Projects Preview
-
-
+- Interface web responsiva com joystick
+- Comunicação serial com Arduino
+- Controle de direção e tração
+- Foco em experiência de uso (controle suave e simultâneo)
 
 ---
 
-## 📂 Repositories
+### 🌱 Painel de Irrigação Inteligente
 
-- 🔧 Embedded Systems Projects  
-- 🌐 Web Interfaces for IoT  
-- 📡 Automation and Connectivity Solutions  
+Sistema de irrigação automatizado com foco em funcionamento local e confiabilidade.
 
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/marcos-gabriel-ferreira-b31845269/ 
-- Instagram: @marcosgabrielfer  
+- Controle de 2 válvulas solenóides
+- Automação por horários
+- Integração com MQTT e Home Assistant
+- Interface web embarcada
+- Armazenamento local das configurações
 
 ---
 
-## 💡 About Me
+### 🌿 Sistema Hidropônico Automatizado
 
-I focus on building practical automation solutions that solve real problems. My goal is to transform projects into scalable products through SmartControl, combining hardware and software into reliable IoT systems.
+Sistema desenvolvido para manter a circulação de água e nutrientes de forma automática.
+
+- Controle de bomba de água
+- Ciclos automatizados
+- Funcionamento local (sem dependência de internet)
+- Estrutura pronta para expansão com sensores (pH, EC, temperatura)
 
 ---
 
-## 🚀 Goals
+### 🚪 Automação de Portão com Monitoramento
 
-- Develop professional IoT products  
-- Expand SmartControl as a technology brand  
-- Work with embedded systems and automation solutions  
-<!--
-**SPGMarcos/SPGMarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sistema de automação de motor de garagem integrado com monitoramento.
 
-Here are some ideas to get you started:
+- Controle remoto do portão
+- Integração com câmera
+- Gerenciamento via Home Assistant
+- Aplicação prática em ambiente residencial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏊 Automação de Piscina (em desenvolvimento)
+
+Sistema para controle de motor e iluminação de piscina.
+
+- Controle de bomba
+- Automação de iluminação
+- Base já funcional (lógica implementada)
+- Fase final: instalação física
+
+---
+
+## 📸 Visualização dos Projetos
+
+Alguns projetos possuem interface web disponível via GitHub Pages, permitindo visualizar o funcionamento na prática.
+
+Também disponibilizo imagens e vídeos reais dos sistemas funcionando.
+
+---
+
+## 📂 Repositórios
+
+- 🔧 Sistemas embarcados
+- 🌐 Interfaces web para IoT
+- 📡 Automação e conectividade
+- 🧠 Projetos com integração Home Assistant
+
+---
+
+## 💡 Sobre mim
+
+Gosto de construir soluções que realmente funcionam no mundo real.
+
+Não foco só no código — penso no sistema completo:
+hardware, software, usabilidade e aplicação prática.
+
+Meu objetivo é transformar esses projetos em produtos através da **SmartControl**, criando soluções acessíveis e confiáveis de automação.
+
+---
+
+## 🚀 Objetivos
+
+- Conseguir uma oportunidade como desenvolvedor (IoT / embarcados / automação)
+- Desenvolver produtos profissionais com a SmartControl
+- Escalar soluções de automação residencial e agrícola
+- Trabalhar com projetos que envolvam hardware + software
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/marcos-gabriel-ferreira-b31845269/
+- Instagram: @marcosgabrielfer
