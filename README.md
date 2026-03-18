@@ -1,121 +1,104 @@
 # Marcos Gabriel Ferreira Miranda
 
-Desenvolvedor IoT | Fundador da SmartControl  
+## Desenvolvedor IoT | Fundador da SmartControl
 
-Sou focado em desenvolver soluções de automação inteligentes para ambientes residenciais e agrícolas, sempre com uma abordagem prática: resolver problemas reais usando tecnologia.
+Sou apaixonado por criar soluções de automação que realmente funcionam no dia a dia, seja em casa ou no campo. Gosto de unir hardware, software e conectividade para resolver problemas reais de forma prática e confiável.
 
-Trabalho principalmente com sistemas embarcados, conectividade e integração com plataformas como Home Assistant.
-
----
+Trabalho principalmente com sistemas embarcados, integração com plataformas como Home Assistant e conectividade via MQTT, sempre pensando na experiência de uso e na eficiência do sistema.
 
 ## 🔧 Tecnologias e Ferramentas
 
 - ESP8266 / ESP32
+
 - Arduino
+
 - MQTT
+
 - Home Assistant
+
 - C++ (Embedded)
+
 - HTML, CSS e JavaScript
+
 - Sistemas IoT (automação e controle)
 
----
-
 ## 🌱 Projetos em Destaque
+### 🚗 Carrinho Controle Wi-Fi
 
-### 🚗 Carrinho Controle Wi-Fi (ESP8266 + Arduino)
+- Carrinho robótico controlado via Wi-Fi usando ESP8266 em modo Access Point.
 
-Projeto de um carrinho robótico controlado via Wi-Fi, utilizando o ESP8266 em modo Access Point.
+- Interface web responsiva com joystick.
 
-- Interface web responsiva com joystick
-- Comunicação serial com Arduino
-- Controle de direção e tração
-- Foco em experiência de uso (controle suave e simultâneo)
+- Comunicação serial com Arduino para direção e tração.
 
----
+- Foco em controle suave e movimentos simultâneos.
 
 ### 🌱 Painel de Irrigação Inteligente
 
-Sistema de irrigação automatizado com foco em funcionamento local e confiabilidade.
+- Sistema automatizado para irrigação local, confiável e eficiente.
+ 
+- Controle de 2 válvulas solenóides por horários.
 
-- Controle de 2 válvulas solenóides
-- Automação por horários
-- Integração com MQTT e Home Assistant
-- Interface web embarcada
-- Armazenamento local das configurações
+- Integração com MQTT e Home Assistant.
 
----
+- Interface web embarcada e armazenamento local das configurações.
 
 ### 🌿 Sistema Hidropônico Automatizado
 
-Sistema desenvolvido para manter a circulação de água e nutrientes de forma automática.
+- Controle automático da circulação de água e nutrientes.
 
-- Controle de bomba de água
-- Ciclos automatizados
-- Funcionamento local (sem dependência de internet)
-- Estrutura pronta para expansão com sensores (pH, EC, temperatura)
+- Ciclos automatizados e funcionamento sem depender de internet.
 
----
+- Estrutura pronta para expansão com sensores de pH, EC e temperatura.
 
 ### 🚪 Automação de Portão com Monitoramento
 
-Sistema de automação de motor de garagem integrado com monitoramento.
+- Controle remoto do motor do portão e integração com câmera.
 
-- Controle remoto do portão
-- Integração com câmera
-- Gerenciamento via Home Assistant
-- Aplicação prática em ambiente residencial
+- Gerenciamento completo via Home Assistant.
 
----
+- Solução aplicada em ambiente residencial com foco em praticidade.
 
 ### 🏊 Automação de Piscina (em desenvolvimento)
 
-Sistema para controle de motor e iluminação de piscina.
+- Controle de bomba e iluminação da piscina.
 
-- Controle de bomba
-- Automação de iluminação
-- Base já funcional (lógica implementada)
-- Fase final: instalação física
-
----
+- Base lógica já implementada, fase final: instalação física.
 
 ## 📸 Visualização dos Projetos
 
-Alguns projetos possuem interface web disponível via GitHub Pages, permitindo visualizar o funcionamento na prática.
+Alguns projetos têm interface web acessível via GitHub Pages.
 
-Também disponibilizo imagens e vídeos reais dos sistemas funcionando.
-
----
+Também compartilho fotos e vídeos reais dos sistemas em funcionamento.
 
 ## 📂 Repositórios
 
-- 🔧 Sistemas embarcados
-- 🌐 Interfaces web para IoT
-- 📡 Automação e conectividade
-- 🧠 Projetos com integração Home Assistant
+- Sistemas embarcados
 
----
+- Interfaces web para IoT
+
+- Automação e conectividade
+
+- Integração com Home Assistant
 
 ## 💡 Sobre mim
 
-Gosto de construir soluções que realmente funcionam no mundo real.
+Gosto de criar soluções completas, pensando em hardware, software, usabilidade e aplicação prática.
 
-Não foco só em desenvolver o código, penso no sistema por completo:
-hardware, software, usabilidade e aplicação prática.
-
-Meu objetivo é transformar esses projetos em produtos através da **SmartControl**, criando soluções acessíveis e confiáveis de automação.
-
----
+Meu objetivo com a SmartControl é transformar esses projetos em produtos acessíveis, confiáveis e escaláveis, trazendo automação de verdade para residências e ambientes agrícolas.
 
 ## 🚀 Objetivos
 
-- Conseguir uma oportunidade como desenvolvedor (IoT / embarcados / automação)
-- Desenvolver produtos profissionais com a SmartControl
-- Escalar soluções de automação residencial e agrícola
-- Trabalhar com projetos que envolvam hardware + software
+- Trabalhar como desenvolvedor IoT / embarcados / automação.
 
----
+- Transformar projetos em produtos profissionais com a SmartControl.
+
+- Escalar soluções de automação residencial e agrícola.
+
+- Desenvolver sistemas que unam hardware e software de forma eficiente.
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/marcos-gabriel-ferreira-b31845269/
+- LinkedIn: Marcos Gabriel Ferreira
+
 - Instagram: @marcosgabrielfer
