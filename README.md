@@ -99,6 +99,6 @@ Meu objetivo com a SmartControl é transformar esses projetos em produtos acess�
 
 ## 📫 Contato
 
-- LinkedIn: Marcos Gabriel Ferreira
+- LinkedIn: https://www.linkedin.com/in/marcos-gabriel-ferreira-b31845269/
 
 - Instagram: @marcosgabrielfer
