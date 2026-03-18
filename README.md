@@ -16,7 +16,7 @@ Trabalho principalmente com sistemas embarcados, integração com plataformas co
 
 - Home Assistant
 
-- C++ (Embedded)
+- C, C++ 
 
 - HTML, CSS e JavaScript
 
